@@ -3,7 +3,7 @@
 three different versions of a cache simulator created by davisatwell
 ### *Direct Mapped Read-Only Cache*
 
-  This version only needs to support reading bytes from an address.
+  This version only supports reading bytes from an address.
   The number of set index bits determines the number of cache lines as each
   set only has one line. No replacement policy is specified because there is
   no choice for which line to replace. 
